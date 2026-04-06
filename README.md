@@ -1,2 +1,23 @@
-# ST10516027_PROG5121_Part1
-Part 1 Repository
+# Chat Application - part 1
+
+## Student Information 
+Name: Nsuku
+Student Number: ST10516027
+Moduke: PROG5121
+
+---
+
+## Project Information
+hgduwi...
+
+---
+
+## Features 
+### Username validation
+hgiuo...
+
+### Cellphone validation
+hgskufj...
+
+---
+
