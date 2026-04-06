@@ -1,9 +1,9 @@
 # Chat Application - part 1
 
 ## Student Information 
--Name: Nsuku
--Student Number: ST10516027
--Module: PROG5121
+- Name: Nsuku Shipalana
+- Student Number: ST10516027
+- Module: PROG5121
 
 ---
 
@@ -15,6 +15,7 @@ hgduwi...
 ## Features 
 ### Username validation
 hgiuo...
+
 
 ### Cellphone validation
 hgskufj...
