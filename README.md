@@ -39,6 +39,15 @@ The system will respond in relation to the validation of the information that th
 ### Login section
 After registration, the user will be able to login to the chatapp or the system. 
 After logging in, the chatapp will send a welcome or login message to the user.
+If not, then the user's credentials are incorrect or invalid.
+
+---
+
+### Login Test
+This is the section where we test to see if all the sections of the programme are perfectly running.
+Firstly, we test the username to see if it is valid. We must make sure that it contains all the required characters which are no more than 5 characters, an underscore, and a digit/ number
+Nextly we check if the passsword meets the required characteristics. It should contain a capital letter, a special character and a number for it to be valid
+
 
 
 
