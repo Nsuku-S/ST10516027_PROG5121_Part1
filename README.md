@@ -47,6 +47,8 @@ If not, then the user's credentials are incorrect or invalid.
 This is the section where we test to see if all the sections of the programme are perfectly running.
 Firstly, we test the username to see if it is valid. We must make sure that it contains all the required characters which are no more than 5 characters, an underscore, and a digit/ number
 Nextly we check if the passsword meets the required characteristics. It should contain a capital letter, a special character and a number for it to be valid
+After testing the password, we must now check the cellphone number to make sure that it is also valid. To ensure that it is valid, we must make sure that it starts with the South African international code which is +27....
+After checking the cellphone number we must now check if the 
 
 
 
