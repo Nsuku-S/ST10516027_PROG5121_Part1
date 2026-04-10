@@ -14,9 +14,9 @@ I have 3 classes which are Login.java, MainApp.java and LoginTest.java.
 
 ## Features 
 ### Username validation
-Here is the section where the user will be inputting their username in order for the system to validate or check if the username is valid or not. 
-It includes an underscore, a special character and a number / digit.
-Once it includes all of that, the username is valid.
+ - Here is the section where the user will be inputting their username in order for the system to validate or check if the username is valid or not. 
+- It includes an underscore, a special character and a number / digit.
+- Once it includes all of that, the username is valid.
 
 
 ### Cellphone validation
